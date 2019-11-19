@@ -1,2 +1,5 @@
-# svelte-js-boilerplate
-Minimal boilerplate for Svelte JS.
+# Svelte JS Boilerplate
+
+## Introduction
+
+Minimal boilerplate for Svelte JS. WIP.
